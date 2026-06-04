@@ -4,13 +4,13 @@
 
 <table>
 <tr>
-<td>
+<td width="35%">
 
 <img src="snoppyescrevendo.png" width="250">
 
 </td>
 
-<td>
+<td width="65%">
 
 <h2>👩‍💻 Sobre Mim</h2>
 
