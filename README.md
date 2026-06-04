@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-<h3>👩‍💻 Sobre Mim</h3>
+<h3>Sobre Mim</h3>
 
 Olá! Eu sou a Gabrielle.
 
@@ -21,7 +21,7 @@ Atualmente desenvolvendo minhas habilidades em programação através de projeto
 
 <div align="justify">
 
-<h3> 🚀 O Que Me Motiva </h3>
+<h3>O Que Me Motiva </h3>
 
 Acredito que o crescimento acontece nos desafios. Cada dificuldade é uma oportunidade para aprender, evoluir e me tornar uma versão melhor de mim mesma.
 
