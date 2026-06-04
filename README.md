@@ -3,14 +3,14 @@
 </p>
 
 <table>
-<tr>
-<td width="35%">
+<tr border="none">
+<td>
 
 <img src="snoppyescrevendo.png" width="250">
 
 </td>
 
-<td width="65%">
+<td border="none">
 
 <h2>👩‍💻 Sobre Mim</h2>
 
