@@ -14,7 +14,10 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e 
 
 Atualmente desenvolvendo minhas habilidades em programação através de projetos e estudos constantes.
 
-<img src="snoopylaço.jpg" width="400" align="right" style="margin-right: 15px;">
+<br>
+<br>
+
+<img src="snoopylaço.jpg" width="300" align="right" style="margin-right: 15px;">
 
 <div align="justify">
 
