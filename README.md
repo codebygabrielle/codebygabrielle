@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-<h2>👩‍💻 Sobre Mim</h2>
+<h3>👩‍💻 Sobre Mim</h3>
 
 Olá! Eu sou a Gabrielle.
 
