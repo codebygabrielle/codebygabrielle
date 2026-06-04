@@ -4,16 +4,22 @@
 
 <table>
 <tr>
-<td width="35%">
+<td>
 
-<img src="assets/cerebro.png" width="250px">
+<img src="snoopyescrevendo.png" width="250">
 
 </td>
-## 👩‍💻 Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e aprendizado contínuo.
+<td>
 
-Atualmente desenvolvendo habilidades em programação e desenvolvimento web através de projetos práticos, sempre em busca de novos desafios e oportunidades de crescimento.
+<h2>👩‍💻 Sobre Mim</h2>
+
+Olá! Eu sou a Gabrielle.
+
+Estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e desenvolvimento web.
+
+Atualmente desenvolvendo minhas habilidades em programação através de projetos e estudos constantes.
+
 </td>
 </tr>
 </table>
