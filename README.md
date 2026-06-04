@@ -2,15 +2,9 @@
   <img src="snoppy.jpg" width="100%">
 </p>
 
-<table>
-<tr border="none">
-<td border="none">
+<img src="snoppyescrevendo.png" width="210" align="left" style="margin-right: 15px;">
 
-<img src="snoppyescrevendo.png" width="250">
-
-</td>
-
-<td border="none">
+<div align="justify">
 
 <h2>👩‍💻 Sobre Mim</h2>
 
@@ -20,9 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e 
 
 Atualmente desenvolvendo minhas habilidades em programação através de projetos e estudos constantes.
 
-</td>
-</tr>
-</table>
+
 
 ## 🚀 O Que Me Motiva
 
