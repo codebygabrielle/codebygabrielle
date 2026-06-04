@@ -2,7 +2,7 @@
   <img src="snoppy.jpg" width="100%">
 </p>
 
-<img src="snoppyescrevendo.png" width="200" align="left" style="margin-right: 15px;">
+<img src="snoppyescrevendo.png" width="100" align="left" style="margin-right: 15px;">
 
 <div align="justify">
 
