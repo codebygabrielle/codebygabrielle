@@ -14,7 +14,9 @@ Estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e 
 
 Atualmente desenvolvendo minhas habilidades em programação através de projetos e estudos constantes.
 
+<img src="snoopylaço.png" width="400" align="left" style="margin-right: 15px;">
 
+<div align="justify">
 
 <h3> 🚀 O Que Me Motiva </h3>
 
