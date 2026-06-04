@@ -17,7 +17,7 @@ Atualmente desenvolvendo minhas habilidades em programação através de projeto
 <br>
 <br>
 
-<img src="snoopylaço.jpg" width="250" align="right" style="margin-right: 15px;">
+<img src="snoopylaço.jpg" width="210" align="right" style="margin-right: 15px;">
 
 <div align="justify">
 
