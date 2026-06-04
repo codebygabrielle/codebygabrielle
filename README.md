@@ -4,7 +4,7 @@
 
 <table>
 <tr border="none">
-<td>
+<td border="none">
 
 <img src="snoppyescrevendo.png" width="250">
 
