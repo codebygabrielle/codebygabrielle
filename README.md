@@ -6,7 +6,7 @@
 <tr>
 <td>
 
-<img src="snoopyescrevendo.png" width="250">
+<img src="snoppyescrevendo.png" width="250">
 
 </td>
 
