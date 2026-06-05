@@ -27,7 +27,7 @@ Acredito que o crescimento acontece nos desafios. Cada dificuldade é uma oportu
 
 Busco encarar as provações como parte do processo, desenvolvendo resiliência, conhecimento e experiência a cada passo da jornada.
 
-## 🌱 Atualmente Estudando
+<h3>🌱 Atualmente Estudando</h3>
 
 - HTML e CSS
 - Git e GitHub
