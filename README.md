@@ -27,7 +27,7 @@ Acredito que o crescimento acontece nos desafios. Cada dificuldade é uma oportu
 
 Busco encarar as provações como parte do processo, desenvolvendo resiliência, conhecimento e experiência a cada passo da jornada.
 
-<img src="computador.PNG" width="210" align="left" style="margin-right: 15px;">
+<img src="compu.png" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
 
