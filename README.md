@@ -30,7 +30,7 @@ Busco encarar as provações como parte do processo, desenvolvendo resiliência,
 <img src="compu.png" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
-
+<br>
 
 <h3>Atualmente Estudando</h3>
 
@@ -38,4 +38,6 @@ Busco encarar as provações como parte do processo, desenvolvendo resiliência,
 - Git e GitHub
 - Lógica de Programação
 - Desenvolvimento Web
+- Linguagem C
+- Python
 
