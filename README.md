@@ -31,7 +31,7 @@ Busco encarar as provações como parte do processo, desenvolvendo resiliência,
 
 <div align="justify">
 <br>
-
+<br>
 <h3>Atualmente Estudando</h3>
 
 - HTML e CSS
